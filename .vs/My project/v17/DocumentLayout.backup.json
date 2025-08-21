@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tcc\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\colunaretangularmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\colunaretangularmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\colunaretangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\colunaretangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\steel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\steel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\tcc\\my project\\assets\\secaoretangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\secaoretangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\secaocircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\secaocircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\Point3D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Point3D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\Face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\flambagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\flambagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\flambagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\flambagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\colunasecaoretangularmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\colunasecaoretangularmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\Compressao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Compressao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\Geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\colunacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\colunacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\Transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Transformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\steelcompressao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\steelcompressao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\secao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\secao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\Material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\tcc\\my project\\assets\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\Utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\Point2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Point2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\bones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\bones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\App.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\App.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\assets\\apoio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\apoio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\tcc\\My project\\Assets\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Line.cs",
+              "RelativeDocumentMoniker": "Assets\\Line.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Line.cs",
+              "RelativeToolTip": "Assets\\Line.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:10:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecaoCircular.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\SecaoCircular.cs",
+              "RelativeDocumentMoniker": "Assets\\SecaoCircular.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\SecaoCircular.cs",
+              "RelativeToolTip": "Assets\\SecaoCircular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:47:40.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecaoRetangular.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\SecaoRetangular.cs",
+              "RelativeDocumentMoniker": "Assets\\SecaoRetangular.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\SecaoRetangular.cs",
+              "RelativeToolTip": "Assets\\SecaoRetangular.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:47:24.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Apoio.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Apoio.cs",
+              "RelativeDocumentMoniker": "Assets\\Apoio.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Apoio.cs",
+              "RelativeToolTip": "Assets\\Apoio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:43:34.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Secao.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Secao.cs",
+              "RelativeDocumentMoniker": "Assets\\Secao.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Secao.cs",
+              "RelativeToolTip": "Assets\\Secao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAywA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:34:13.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ColunaCircular.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\ColunaCircular.cs",
+              "RelativeDocumentMoniker": "Assets\\ColunaCircular.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\ColunaCircular.cs",
+              "RelativeToolTip": "Assets\\ColunaCircular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:33:02.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlambagemMenu.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\FlambagemMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\FlambagemMenu.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\FlambagemMenu.cs",
+              "RelativeToolTip": "Assets\\FlambagemMenu.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T03:05:12.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColunaSecaoRetangularMenu.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\ColunaSecaoRetangularMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\ColunaSecaoRetangularMenu.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\ColunaSecaoRetangularMenu.cs",
+              "RelativeToolTip": "Assets\\ColunaSecaoRetangularMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T02:41:04.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SteelCompressao.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\SteelCompressao.cs",
+              "RelativeDocumentMoniker": "Assets\\SteelCompressao.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\SteelCompressao.cs",
+              "RelativeToolTip": "Assets\\SteelCompressao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:56:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Box.cs",
+              "RelativeDocumentMoniker": "Assets\\Box.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Box.cs",
+              "RelativeToolTip": "Assets\\Box.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:15:23.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColunaRetangular.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\ColunaRetangular.cs",
+              "RelativeDocumentMoniker": "Assets\\ColunaRetangular.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\ColunaRetangular.cs",
+              "RelativeToolTip": "Assets\\ColunaRetangular.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:14:12.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColunaRetangularModel.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\ColunaRetangularModel.cs",
+              "RelativeDocumentMoniker": "Assets\\ColunaRetangularModel.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\ColunaRetangularModel.cs",
+              "RelativeToolTip": "Assets\\ColunaRetangularModel.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIAwwDoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:11:37.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "flambagem.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Flambagem.cs",
+              "RelativeDocumentMoniker": "Assets\\Flambagem.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Flambagem.cs",
+              "RelativeToolTip": "Assets\\Flambagem.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAIAwwFEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "rotate.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\rotate.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\rotate.cs",
+              "RelativeToolTip": "Assets\\rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Utils.cs",
+              "RelativeDocumentMoniker": "Assets\\Utils.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Utils.cs",
+              "RelativeToolTip": "Assets\\Utils.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Compressao.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Compressao.cs",
+              "RelativeDocumentMoniker": "Assets\\Compressao.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Compressao.cs",
+              "RelativeToolTip": "Assets\\Compressao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Material.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Material.cs",
+              "RelativeDocumentMoniker": "Assets\\Material.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Material.cs",
+              "RelativeToolTip": "Assets\\Material.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\App.cs",
+              "RelativeDocumentMoniker": "Assets\\App.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\App.cs",
+              "RelativeToolTip": "Assets\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bones.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\bones.cs",
+              "RelativeDocumentMoniker": "Assets\\bones.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\bones.cs",
+              "RelativeToolTip": "Assets\\bones.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Steel.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\steel.cs",
+              "RelativeDocumentMoniker": "Assets\\steel.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\steel.cs",
+              "RelativeToolTip": "Assets\\steel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwBwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transformation.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Transformation.cs",
+              "RelativeDocumentMoniker": "Assets\\Transformation.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Transformation.cs",
+              "RelativeToolTip": "Assets\\Transformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Point2D.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Point2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Point2D.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Point2D.cs",
+              "RelativeToolTip": "Assets\\Point2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Point3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Point3D.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Point3D.cs",
+              "RelativeToolTip": "Assets\\Point3D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Face.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Face.cs",
+              "RelativeDocumentMoniker": "Assets\\Face.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Face.cs",
+              "RelativeToolTip": "Assets\\Face.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Geometry.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Geometry.cs",
+              "RelativeDocumentMoniker": "Assets\\Geometry.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Geometry.cs",
+              "RelativeToolTip": "Assets\\Geometry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\tcc\\My project\\Assets\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu.cs",
+              "ToolTip": "D:\\tcc\\My project\\Assets\\Menu.cs",
+              "RelativeToolTip": "Assets\\Menu.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAhwL0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:34:47.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
