@@ -1,0 +1,146 @@
+using UnityEngine;
+//using NUnit.Framework;
+//using System.Collections.Generic;
+//using UnityEngine;
+
+//class FlambagemSeletorMenu : MonoBehaviour
+//{
+
+//    public  
+//}
+namespace EstrutEdu
+{
+    public class Box
+    {
+        public float BaseSecao { get; set; }
+        public float AlturaSecao { get; set; }
+        public float Comprimento { get; set; }
+
+        //static Mesh CriarMeshBox(
+        //    float baseSecao,
+        //    float alturaDivisao,
+        //    float alturaSecao)
+        //{
+        //    Mesh mesh = new Mesh();
+        //    Vector3[] vertices = new Vector3[8]
+        //    {
+        //        new Vector3(-baseSecao/2, 0, -alturaSecao/2),
+        //        new Vector3(baseSecao/2, 0, -alturaSecao/2),
+        //        new Vector3(baseSecao/2, 0, alturaSecao/2),
+        //        new Vector3(-baseSecao/2, 0, alturaSecao/2),
+        //        new Vector3(-baseSecao/2, alturaDivisao, -alturaSecao/2),
+        //        new Vector3(baseSecao/2, alturaDivisao, -alturaSecao/2),
+        //        new Vector3(baseSecao/2, alturaDivisao, alturaSecao/2),
+        //        new Vector3(-baseSecao/2, alturaDivisao, alturaSecao/2)
+        //    };
+
+        //    int[] triangles = new int[]
+        //    {
+        //        0, 2, 1, 0, 3, 2, // Bottom
+        //        4, 5, 6, 4, 6, 7, // Top
+        //        3, 7, 6, 3, 6, 2, // Front
+        //        0, 1, 5, 0, 5, 4, // Back
+        //        0, 4, 7, 0, 7, 3, // Left
+        //        1, 2, 6, 1, 6, 5 // Right
+        //    };
+
+        //    mesh.vertices = vertices;
+        //    mesh.triangles = triangles;
+        //    mesh.RecalculateNormals();
+        //    return mesh;
+        //}
+
+    }
+}
+ // Exemplo: deformar o topo da primeira box
+        //if (Input.GetKeyDown(KeyCode.Space))
+        //{
+        //    DeformarTopoBox(0, 1f, 1f);
+        //}
+
+
+    //void CriarBoxs()
+    //{
+    //    float boxHeight = Comprimento / quantidadeBox;
+    //    for (int i = 0; i < quantidadeBox; i++)
+    //    {
+    //        GameObject sect = new GameObject("Box_" + i);
+    //        box.transform.parent = this.transform;
+    //        box.transform.localPosition = new Vector3(0, i * boxHeight, 0);
+
+    //        MeshFilter mf = box.AddComponent<MeshFilter>();
+    //        MeshRenderer mr = box.AddComponent<MeshRenderer>();
+    //        Material mat = Resources.Load<Material>("Crate - URP");
+    //        mr.material = mat;
+
+    //        //mf.mesh = CriarMeshBox(baseSecao, boxHeight, alturaSecao);
+    //        //boxMeshFilters.Add(mf);
+    //    }
+    //}
+
+    // Atualiza todos os meshes das boxs com nova largura/altura
+    //void AtualizarBoxs()
+    //{
+    //    float boxHeight = Comprimento / quantidadeBox;
+    //    for (int i = 0; i < boxMeshFilters.Count; i++)
+    //    {
+    //        //Mesh mesh = Box.CriarMeshBox(sliderBaseSecao.value, boxHeight, sliderAlturaSecao.value);
+    //        //boxMeshFilters[i].mesh = mesh;
+    //    }
+    //}
+
+
+    //public void DeformarTopoBox(int index, float deltaX, float deltaZ)
+    //{
+    //    if (index < 0 || index >= boxMeshFilters.Count) return;
+    //    Mesh mesh = boxMeshFilters[index].mesh;
+    //    Vector3[] vertices = mesh.vertices;
+    //    // Vértices do topo: 4,5,6,7
+    //    for (int i = 4; i <= 7; i++)
+    //    {
+    //        vertices[i].x += deltaX;
+    //        vertices[i].z += deltaZ;
+    //    }
+    //    mesh.vertices = vertices;
+    //    mesh.RecalculateNormals();
+    //    boxMeshFilters[index].mesh = mesh;
+    //}
+
+    //// Deforma a base da box (índice) alterando x e y dos vértices inferiores
+    //public void DeformarBaseBox(int index, float deltaX, float deltaZ)
+    //{
+    //    if (index < 0 || index >= boxMeshFilters.Count) return;
+    //    Mesh mesh = boxMeshFilters[index].mesh;
+    //    Vector3[] vertices = mesh.vertices;
+    //    // Vértices da base: 0,1,2,3
+    //    for (int i = 0; i <= 3; i++)
+    //    {
+    //        vertices[i].x += deltaX;
+    //        vertices[i].z += deltaZ;
+    //    }
+    //    mesh.vertices = vertices;
+    //    mesh.RecalculateNormals();
+    //    boxMeshFilters[index].mesh = mesh;
+    //}
+
+    public static List<Vertice> SimularFlambagemFisica(
+            int numeroVertices,
+            double alturaTotal,
+            double amplitude,
+            double carga,
+            double cargaCritica,
+            double exagero
+            )
+        {
+            double amplitudeMaxima = amplitude * (carga / cargaCritica) * exagero;
+            var vertices = new List<Vertice>();
+
+            for (int i = 0; i < numeroVertices; i++)
+            {
+                double y = i * (alturaTotal / (numeroVertices - 1));
+                double x = amplitudeMaxima * Math.Sin(Math.PI * y / alturaTotal);
+                vertices.Add(new Vertice(x, y));
+            }
+
+            return vertices;
+        }

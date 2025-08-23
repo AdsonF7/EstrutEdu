@@ -1,35 +1,61 @@
 using EstrutEdu;
 using System;
 using System.Collections.Generic;
+using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public abstract class Secao
 {
 	public abstract float MenorMomentoInercia { get; }
-	public abstract Point2D[] Pontos { get; }
+	public abstract Vector2[] Pontos { get; }
 
-    public Mesh Extrude(double altura, Point2D[] pontos)
+    public Mesh Extrude(
+        float alturaTotal, 
+        ref MeshFilter filtroMalha, 
+        int divisoes = 1)
 	{
+		var alturaPasso = alturaTotal/divisoes;
 		var mesh = new Mesh();
-		
-		for (var i = 0; i <= pontos.Length; i++)
-		{
-			var p1 = pontos[i % pontos.Length];
-			var p2 = pontos[(i + 1) % pontos.Length];
-			
-			mesh.vertices = new Vector3[]
-			{
-				new Vector3((float)p1.X, 0, (float)p1.Y),
-				new Vector3((float)p2.X, 0, (float)p2.Y),
-				new Vector3((float)p1.X, (float)altura, (float)p1.Y),
-				new Vector3((float)p2.X, (float)altura, (float)p2.Y)
-			};
+		List<Vector3> vertices = new List<Vector3>();
+        List<int> triangulos = new List<int>();
 
-			mesh.triangles = new int[]
-			{
-				i * 4, i * 4 + 1, i * 4 + 2,
-				i * 4 + 1, i * 4 + 3, i * 4 + 2
-			};
+		for (var i = 0; i <= divisoes; i++)
+		{
+            foreach(var p in Pontos)
+            {
+                var x = p.x;
+                var y = alturaPasso * i;
+                var z = p.y;
+                vertices.Add(new Vector3(x, y, z));
+            }
+        }
+
+        int quantidadePontos = Pontos.Count();
+
+        for (var i = 0; i < divisoes; i++)
+		{
+            int pIncialCamada = i * quantidadePontos;
+            for (int j = 0; j < quantidadePontos; j++)
+            {
+                int pProximo = (j + 1) % quantidadePontos;
+                int a = pIncialCamada + j;
+                int b = pIncialCamada + pProximo;
+                int c = pIncialCamada + j + quantidadePontos;
+                int d = pIncialCamada + pProximo + quantidadePontos;
+
+                triangulos.Add(a);
+                triangulos.Add(c);
+                triangulos.Add(b);
+
+                triangulos.Add(b);
+                triangulos.Add(c);
+                triangulos.Add(d);
+            }
+            filtroMalha.mesh.Clear();
+            filtroMalha.mesh.vertices = vertices.ToArray();
+            filtroMalha.mesh.triangles = triangulos.ToArray();
+            filtroMalha.mesh.RecalculateNormals();
         }
         return mesh;
     }

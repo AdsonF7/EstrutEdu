@@ -16,15 +16,15 @@ public class SecaoRetangular : Secao
         }
     }
 
-    public override Point2D[] Pontos {
+    public override Vector2[] Pontos {
         get
         {
-            return new Point2D[4]
+            return new Vector2[4]
             {
-                new Point2D(-Base/2, -Altura/2),
-                new Point2D(Base/2, -Altura/2),
-                new Point2D(Base/2, Altura/2),
-                new Point2D(-Base/2, Altura/2),
+                new Vector2(-Base/2, -Altura/2),
+                new Vector2(Base/2, -Altura/2),
+                new Vector2(Base/2, Altura/2),
+                new Vector2(-Base/2, Altura/2),
             };
         }
     }
