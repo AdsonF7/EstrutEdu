@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|c:\\users\\adson\\documents\\github\\estrutedu\\assets\\flambagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\flambagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\flambagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|c:\\users\\adson\\documents\\github\\estrutedu\\assets\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|c:\\users\\adson\\documents\\github\\estrutedu\\assets\\roletemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\roletemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|c:\\users\\adson\\documents\\github\\estrutedu\\assets\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\sapatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\sapatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|c:\\users\\adson\\documents\\github\\estrutedu\\assets\\flambagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\flambagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|c:\\users\\adson\\documents\\github\\estrutedu\\assets\\secao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\secao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\secao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|c:\\users\\adson\\documents\\github\\estrutedu\\assets\\secaocircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\flambagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\flambagemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\secaocircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\secaocircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|c:\\users\\adson\\documents\\github\\estrutedu\\assets\\apoio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\colunaretangularmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\colunaretangularmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\travarcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\travarcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\apoio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\apoio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|c:\\users\\adson\\documents\\github\\estrutedu\\assets\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\materialpropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\materialpropriedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\secaoretangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\secaoretangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\assets\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8182866-6BA1-363D-D027-DB79404E2314}|Assembly-CSharp.csproj|solutionrelative:assets\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\trash||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\trash||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,98 +70,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 125,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Utils.cs",
-              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Utils.cs",
-              "RelativeDocumentMoniker": "Assets\\Utils.cs",
-              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Utils.cs",
-              "RelativeToolTip": "Assets\\Utils.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAwwEQAAAAdAAAAAAAAAA==",
+              "Title": "RoleteModel.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\RoleteModel.cs",
+              "RelativeDocumentMoniker": "Assets\\RoleteModel.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\RoleteModel.cs",
+              "RelativeToolTip": "Assets\\RoleteModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA1wAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T06:04:39.555Z",
+              "WhenOpened": "2025-08-28T07:46:12.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Material.cs",
-              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Material.cs",
-              "RelativeDocumentMoniker": "Assets\\Material.cs",
-              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Material.cs",
-              "RelativeToolTip": "Assets\\Material.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Title": "SapataModel.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\SapataModel.cs",
+              "RelativeDocumentMoniker": "Assets\\SapataModel.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\SapataModel.cs",
+              "RelativeToolTip": "Assets\\SapataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T06:01:26.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T05:06:30.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FlambagemMenu.cs",
-              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\FlambagemMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\FlambagemMenu.cs",
-              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\FlambagemMenu.cs",
-              "RelativeToolTip": "Assets\\FlambagemMenu.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAawBIAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "TravarCamera.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\TravarCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\TravarCamera.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\TravarCamera.cs",
+              "RelativeToolTip": "Assets\\TravarCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T05:59:08.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Secao.cs",
-              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Secao.cs",
-              "RelativeDocumentMoniker": "Assets\\Secao.cs",
-              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Secao.cs",
-              "RelativeToolTip": "Assets\\Secao.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAUwDYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T05:57:15.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Flambagem.cs",
-              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Flambagem.cs",
-              "RelativeDocumentMoniker": "Assets\\Flambagem.cs",
-              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Flambagem.cs",
-              "RelativeToolTip": "Assets\\Flambagem.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAIAxwGUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T05:28:32.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T04:33:41.092Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Apoio.cs",
-              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Apoio.cs",
-              "RelativeDocumentMoniker": "Assets\\Apoio.cs",
-              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Apoio.cs",
-              "RelativeToolTip": "Assets\\Apoio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Title": "CameraControl.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\CameraControl.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraControl.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\CameraControl.cs",
+              "RelativeToolTip": "Assets\\CameraControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T05:27:39.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.cs",
-              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\App.cs",
-              "RelativeDocumentMoniker": "Assets\\App.cs",
-              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\App.cs",
-              "RelativeToolTip": "Assets\\App.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T05:27:38.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T12:20:41.129Z"
             },
             {
               "$type": "Document",
@@ -143,10 +129,130 @@
               "RelativeDocumentMoniker": "Assets\\SecaoCircular.cs",
               "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\SecaoCircular.cs",
               "RelativeToolTip": "Assets\\SecaoCircular.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T05:27:25.738Z",
+              "WhenOpened": "2025-08-23T05:27:25.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColunaRetangularModel.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\ColunaRetangularModel.cs",
+              "RelativeDocumentMoniker": "Assets\\ColunaRetangularModel.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\ColunaRetangularModel.cs",
+              "RelativeToolTip": "Assets\\ColunaRetangularModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:22:29.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SecaoRetangular.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\SecaoRetangular.cs",
+              "RelativeDocumentMoniker": "Assets\\SecaoRetangular.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\SecaoRetangular.cs",
+              "RelativeToolTip": "Assets\\SecaoRetangular.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T06:10:17.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "trash",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\trash",
+              "RelativeDocumentMoniker": "Assets\\trash",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\trash",
+              "RelativeToolTip": "Assets\\trash",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAJ0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-24T04:42:04.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Utils.cs",
+              "RelativeDocumentMoniker": "Assets\\Utils.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Utils.cs",
+              "RelativeToolTip": "Assets\\Utils.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAqwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T06:04:39.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlambagemMenu.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\FlambagemMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\FlambagemMenu.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\FlambagemMenu.cs",
+              "RelativeToolTip": "Assets\\FlambagemMenu.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA/wIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T05:59:08.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Secao.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Secao.cs",
+              "RelativeDocumentMoniker": "Assets\\Secao.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Secao.cs",
+              "RelativeToolTip": "Assets\\Secao.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAywFAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T05:57:15.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flambagem.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Flambagem.cs",
+              "RelativeDocumentMoniker": "Assets\\Flambagem.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Flambagem.cs",
+              "RelativeToolTip": "Assets\\Flambagem.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T05:28:32.981Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Apoio.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Apoio.cs",
+              "RelativeDocumentMoniker": "Assets\\Apoio.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\Apoio.cs",
+              "RelativeToolTip": "Assets\\Apoio.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAMwDgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T05:27:39.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaterialPropriedades.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\MaterialPropriedades.cs",
+              "RelativeDocumentMoniker": "Assets\\MaterialPropriedades.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\MaterialPropriedades.cs",
+              "RelativeToolTip": "Assets\\MaterialPropriedades.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T06:01:26.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\App.cs",
+              "RelativeDocumentMoniker": "Assets\\App.cs",
+              "ToolTip": "C:\\Users\\adson\\Documents\\GitHub\\EstrutEdu\\Assets\\App.cs",
+              "RelativeToolTip": "Assets\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T05:27:38.254Z"
             }
           ]
         }

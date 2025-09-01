@@ -17,67 +17,67 @@ namespace EstrutEdu
                 {
                     { "Aço Estrutural (Carbono)", new MaterialPropriedades(
                         "Aço Estrutural",
-                        200000f,
+                        200e9f,
                         250f,
                         0.30f,
                         "Aco") },
                     { "Aço Inoxidável 304", new MaterialPropriedades(
                         "Aço Inox 304",
-                        193000f,
+                        193e9f,
                         290f,
                         0.30f,
                         "Aco") },
                     { "Aço Inoxidável 440A", new MaterialPropriedades(
                         "Aço Inox 440A",
-                        200000f,
+                        200e9f,
                         290f,
                         0.30f,
                         "Aco") },
                     { "Aço Ferramenta H13", new MaterialPropriedades(
                         "Aço H13",
-                        215000f,
+                        215e9f,
                         450f,
                         0.30f,
                         "Aco") },
                     { "Concreto", new MaterialPropriedades(
                         "Concreto",
-                        30000,
+                        30e9f,
                         30,
                         0.2f,
                         "Concreto") },
                     { "Alumínio", new MaterialPropriedades(
                         "Alumínio (Genérico)",
-                        69000,
+                        69e9f,
                         100,
                         0.33f,
                         "Aluminio") },
                     { "Madeira", new MaterialPropriedades(
                         "Madeira",
-                        12000,
+                        12e9f,
                         5,
                         0.4f,
                         "Madeira") },
                     { "Ipê", new MaterialPropriedades(
                         "Ipê",
-                        18000f,
+                        18e9f,
                         100f,
                         0.40f,
                         "Madeira") },
                     { "Jatobá", new MaterialPropriedades(
                         "Jatobá",
-                        23600f,
+                        23.6e9f,
                         120f,
                         0.40f,
                         "Madeira") },
                     { "Freijó (seco)", new MaterialPropriedades(
                         "Freijó",
-                        11101f,
+                        11.101e9f,
                         95f,
                         0.40f,
                         "Madeira") },
                     { "Pinus elliottii (seco)", new MaterialPropriedades(
                         "Pinus elliottii",
-                        8846f,
+                        8.846e9f,
                         70f,
                         0.40f,
                         "Madeira") }
@@ -92,31 +92,42 @@ namespace EstrutEdu
                 {
                     { "Seção Circular", new SecaoVisualizadorParametros(
                         typeof(SecaoCircular),
-                        new List<string> {
-                            "sld_RaioSecao",
-                            "txt_RaioSecao" }) },
+                        new List<Tuple<string, string>> {
+                            new Tuple<string, string>("sld_ParamA", "" ),
+                            new Tuple<string, string>("txt_ParamA", "Raio da Seção")}) },
                     { "Seção Retangular", new SecaoVisualizadorParametros(
                         typeof(SecaoRetangular),
-                        new List<string> {
-                            "sld_BaseSecao",
-                            "sld_AlturaSecao",
-                            "txt_BaseSecao",
-                            "txt_AlturaSecao" }) },
+                        new List<Tuple<string, string>> {
+                            new Tuple<string, string>("sld_ParamA", ""),
+                            new Tuple<string, string>("txt_ParamA", "Base da Seção"),
+                            new Tuple<string, string>("sld_ParamB", ""),
+                            new Tuple<string, string>("txt_ParamB", "Altura da Seção")}) },
                     
                     //{ "Viga T", typeof(SecaoVigaT) },
                     //{ "Viga H", typeof(SecaoVigaH) }
                 };
             }
         }
-        public static void SeletorMenuLateral(List<GameObject> objetos, List<string> filtro)
+
+        public static Dictionary<string, Apoio> ListaApoios
         {
-            foreach (GameObject objeto in objetos)
+            get
             {
-                objeto.SetActive(false);
-                if (filtro.Contains(objeto.name))
+                return new Dictionary<string, Apoio>
                 {
-                    objeto.SetActive(true);
-                }
+
+                };
+            }
+        }
+
+        public static void SeletorMenuLateral(List<GameObject> objetos, List<Tuple<string, string>> filtro)
+        {
+            objetos.ForEach(x => x.SetActive(false));
+
+            foreach (var parametros in filtro)
+            {
+                objetos.Find(x => x.name == parametros.Item1)?
+                    .SetActive(true);
             }
         }
     }
@@ -124,9 +135,9 @@ namespace EstrutEdu
     public struct SecaoVisualizadorParametros
     {
         public Type Forma { get; set; }
-        public List<string> Menu { get; set; }
+        public List<Tuple<string, string>> Menu { get; set; }
 
-        public SecaoVisualizadorParametros(Type forma, List<string> menu)
+        public SecaoVisualizadorParametros(Type forma, List<Tuple<string, string>> menu)
         {
             Forma = forma;
             Menu = menu;

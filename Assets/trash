@@ -144,3 +144,15 @@ namespace EstrutEdu
 
             return vertices;
         }
+
+                public struct Vertice
+        {
+            public double X, Y;
+            public Vertice(
+                double x, 
+                double y)
+            {
+                X = x;
+                Y = y;
+            }
+        }

@@ -13,7 +13,12 @@ namespace EstrutEdu
         public float ResistenciaCompressao { get; private set; }
         public float CoeficientePoisson { get; private set; }
         public string NomeMaterialUnity { get; private set; } 
-        public MaterialPropriedades(string nome, float moduloElasticidade, float resistenciaCompressao, float coeficientePoisson, string nomeMaterialUnity)
+        public MaterialPropriedades(
+            string nome, 
+            float moduloElasticidade, 
+            float resistenciaCompressao, 
+            float coeficientePoisson, 
+            string nomeMaterialUnity)
         {
             Nome = nome;
             ModuloElasticidade = moduloElasticidade;

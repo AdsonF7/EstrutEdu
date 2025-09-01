@@ -1,20 +1,16 @@
 using EstrutEdu;
+using System;
 using UnityEngine;
 
 public class SecaoRetangular : Secao
 {
     public float Base { get; set; }
     public float Altura { get; set; }
-    public float Area => Base * Altura;
-    public override float MenorMomentoInercia
-    {
-        get
-        {
-            if (Base > Altura)
-                return (Base * Mathf.Pow(Altura, 3)) / 12f;
-            return (Altura * Mathf.Pow(Base, 3)) / 12f;
-        }
-    }
+    public override double Area => Base * Altura;
+    public override double RaioGiracao => Math.Sqrt(MenorMomentoInercia / Area);
+    public override double MenorMomentoInercia => (Base > Altura) 
+        ? (Base * Math.Pow(Altura, 3)) / 12.0
+        : (Altura * Math.Pow(Base, 3)) / 12.0;
 
     public override Vector2[] Pontos {
         get
@@ -29,10 +25,21 @@ public class SecaoRetangular : Secao
         }
     }
 
-    public SecaoRetangular(float b, float h)
+    public override Vector2 Direcao => (Base > Altura) 
+        ? new Vector2(1, 0) 
+        : new Vector2(0, 1);
+
+    public override string Info => $"Base: {Base}; Altura: {Altura}";
+
+    public SecaoRetangular(
+        float paramA,
+        float paramB,
+        float paramC,
+        float paramD,
+        float paramE)
     {
-        Base = b;
-        Altura = h;
+        Base = paramA;
+        Altura = paramB;
     }
 
 }
